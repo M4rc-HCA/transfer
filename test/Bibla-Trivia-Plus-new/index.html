@@ -1,0 +1,36 @@
+<!doctype html>
+
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Bible Trivia Plus</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <main>
+            <div id="decks"></div>
+            <div class="question" id="question"></div>
+            <form class="answers" id="answers">
+                <fieldset id="radios">
+                </fieldset>
+                <input type="submit" value="Submit">
+            </form>
+            <div id="myModal" class="modal">
+                <!-- Modal content -->
+                <div id="modal-content" class="modal-content">
+                  <button class="close">&times;</button>
+                  <div id="modal-text"></div>
+                </div>
+            </div>
+        </main>
+
+        <script src="ajv.min.js"></script>
+        <script src="cards.js"></script>
+        <script src="board.js"></script>
+        <script src="games.js"></script>
+        <script src="ui.js"></script>
+    </body>
+
+</html>

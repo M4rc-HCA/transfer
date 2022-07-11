@@ -1,0 +1,42 @@
+TODO:
+
+
+gameboard
+    - A Path is a class with a field that is an array of Spaces, each of which is connnected to the next Space.
+    - A Space may have additional connections to any other Spaces on the board, even Spaces in other Paths.
+
+roll the dice 
+game rules (logic)
+
+
+
+
+
+// Score Keeping Datastructure
+
+Name:
+Torah:
+History:
+Wisdom:
+Prophets:
+Gospels:
+Acts:
+Paul:
+Epistles:
+
+// OT Board
+Torah:
+History:
+Wisdom:
+Prophets:
+repeat
+
+// Church History Multi-Bridge
+
+// NT Board
+Gospels:
+Acts:
+Paul:
+Epistles:
+repeat
+
