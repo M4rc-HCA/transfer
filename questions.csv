@@ -1,0 +1,521 @@
+ 1,'The first son of isaac is ','Esau','Jacob','John','Abram',2
+ 2,'The first wife of Jacob is','Leah','Rachel','Joana','Esther',2
+ 3,' How many books are there in the Old Testament','39 ','40','42','37',2
+ 4,' How many books are there in the New Testament','27','32','28','30',2
+ 5,'Which was the first Gospel to be written','Mark','John','Matthew','John',2
+ 6,'Which parable is not found in the Gospel of John','No parable In the Gospel of John','The lost coin','The Ten Virgins','The Lost Sheep',2
+ 7,' Which New Testament book was written first','First Thessalonians','Matthew','Peter','Luke',2
+ 8,'How long was Jesus'' earthly ministry','3 years','2 years','4 years','1 year',2
+ 9,' How many missionary journeys did Paul make','3 ','4','2','5',2
+ 10,' Which prophet ministered to the people of Israel during their exile','Ezekiel','Amos','Habakkuk','Jonah',2
+ 11,'In what city was Jesus born','Bethlehem','Nazareth','Jericho','Judea',2
+ 12,'What does Immanuel mean','God with us','Holy Spirit with us','God with all','Forever he is King',2
+ 13,'Who followed Herod as King of Judea','Archelaus','Azariah','Saul','Jonathan',2
+ 14,'What gifts did the wise men from the East offer to the child Jesus','Gold,frankincense and myrrh','Gold,silver and bronze','Gold,silver and brass','Gold,zinc and copper',2
+ 15,'What did John the Baptist eat','Locusts and wild honey','Locust',' Honey','Locust bean',2
+ 16,'In which river did John baptize people','Jordan','Nile','Orange','Jericho',2
+ 17,'In what form did the Spirit of God descend upon Jesus during his baptism','Dove','Bird','Spirit','Love',2
+ 18,'Who were the first people Jesus called to be his disciples','Simon Peter and Andrew','Simon Peter and John','James and John','James and Matthew',2 
+ 19,'How many days and nights did Jesus fast in the widerness','40 days and 40 nights','30 days and 30 nights','35 days and 35 nights ','45 days and 45 nights',2
+ 20,'The lamp of the body is the ______ ','Eye','Brain','Hand','Skin',2
+ 21,'What does the word ''Golgotha'' mean','The place of a Skull','Restaurant','Church','Shop',2
+ 22,'What was the name of the man who helped Jesus carry the cross on the way to Golgotha','Simon of Cyrene','Simon of Jordan','Simon Peter','Thomas',2 
+ 23,'Whose tomb was Jesus buried in?','Joseph of Arimathea','John of Arimathea','Joseph of nazareth','Jonathan',2
+ 24,'Who among the disciples denied Jesus Three times','Simon Peter','John ','Thomas','Matthew',2
+ 25,'Who among the disciples betrayed Jesus','Judas Iscariot','Andrew','Mark','Thomas',2
+ 26,'Who was the priest murdered between the temple and the altar','Zechariah','Aaron','Samuel','Joshua',2
+ 27,'Which group among the Jews believed that there is no resurrection','Sadducees','Pharisees','Gentiles','Nazarites',2
+ 28,'Who were the two people whom the disciples saw talking to Jesus during the transfiguration','Moses and Eelijah','Moses and Elisah','Elijah and Elisah','Abraham and Isaac',2
+ 29,'Which disciple jumped out of his boat and walked on water to reach Jesus','Peter','Andrew','John','Matthew',2
+ 30,'What was the profession of Matthew before he became a disciple of Jesus','Tax Collector','Doctor','Lawyer','Fisherman',2
+ 31,'Whose mother-in-law did Jesus heal from fever','Peter''s','John''s','Solomon''s','Thomas''s',2
+ 32,'Who lied to God when he was asked where his brother was','Cain','Abel','Seth','Lot',2
+ 33,'What was inscribed above Jesus'' cross','King of Jews','King of Gentiles','King of all','King',2
+ 34,'What was special about Jesus'' mother','She was a virgin','She was a beautiful','She was gentle','She was generous',2
+ 35,'What happened to Jonah after he was thrown overboard','He was swallowed by a great fish','He escaped','He was calm','He was happy',2
+ 36,'In whose images was man created','God''s','Man''s','Satan','Angel''s',2
+ 37,'Which of the gospels appears last in the Bible','John','Mark','Luke','Matthew',2
+ 38,'What is the only sin that cannot be forgiven','Blaspheming against the Holy Spirit','Adultery','Lying','Fornication',2
+ 39,'How did David defeat Goliath','He hit him with a stone','He sliced him with a cutlass','He stabbed him with a cutlass','He shot him with a gun',2  
+ 40,'What relationship was Ruth to Naomi','Daughter-in-law','Daughter','Mother','Grandmother',2
+ 41,'What did Joseph''s brothers do to get rid of him','Threw him in a pit and sold him','Sold him','Blackmiled him','Killed him',2
+ 42,'Who wrote the letter to philemon','Paul','James','Titus','Timothy',2
+ 43,'What was the name of moses'' brother','Aaron','Joseph','Benjamin','Joshua',2
+ 44,'What sin is cain remembered for','Murder','Lying','Fornication','Cheating',2
+ 45,'The ''Lord is my sheperd'' is the opening line to which Psalm','Psalm 23','Psalm 22','Psalm 24','Psalm 25',2
+ 46,'Who wrote the majority of the New Testament','Paul','Peter','John','Mark',2
+ 47,'What was david''s occupation before he became king','Sheperd','Hunter','Store Keeper','Soldier',2
+ 48,'Who hid two spies but claimed not to know of their whereabouts when asked','Rahab','Rehab','Rahaab','Rehobot',2
+ 49,'Whose prayer resulted in his being thrown into a den of lions','Daniel','Josh','Joshua','Abednego',2
+ 50,'What was the apparent source of Samson''s strengh','Long hair','Tight muscle','Eating very well','Visiting the gym',2
+ 51,'From which country did Moses help the Isrealites escape from their lives of slavery','Egypt','Cannan','Jericho','Judea',2
+ 52,'Who was the fourth person in the fiery furnance along with Daniel''s Friend','An Angel','Jesus','Daniel','No one',2
+ 53,'What did Joseph''s brothers do to deceive their father to cover up that they sold Joseph into slavery','Dipped his coat in the blood of a goat','Dipped his coat in the blood of sheep','Lied that he was killed by an hunter','Lied that he ran away',2
+ 54,'Whose name means "father of agreat multitude"','Abraham','Isaac','Jesus','Lot',2
+ 55,'What does a good tree bring forth','Good fruit','Good leaves','Good branches','Nice colors',2
+ 59,'What did God do on the seventh day','Rested','Created man','Created birds','Created light',2
+ 60,'At the last supper, what items of ood and drink did Jesus give thanks for','Bread and wine','Bread and fish','Bread','Wine',2
+ 61,'When Jesus was in the wilderness, what was he tempted to turn into loaves of bread','Stone','Wheat','Flour','Bush',2
+ 62,'Who was David''s great friend','Jonathan','Jonas','Azariah','Saul',2
+ 63,'Who said thy God shall be my God','Ruth','Esther','Haman','Jacob',2
+ 64,'What does James say we should do if we lack wisdom','Ask God for wisdom, in faith','Ask God for wisdom, in hope','Ask God for wisdom, in love','Ask for knowledge',2
+ 65,'Where did Jesus meet the woman of samaria','By a well','At Church','At restaurant ','At the Market',2
+ 66,'Why did Elimelech go to live in Moab with his family ','Famine ','Just Visiting','Found a new Job','Tired of his former place',2
+ 67,'Who lied about the price they received for a piece of land and died as a result','Ananias & Sapphira','Anna & batsheba','Seth & lot','Cain & Abel',2
+ 68,'How were sins forgiven in the old testament','Animal sacrifice','Begging the priest','Plant sacrifice','staying at home for sometime',2
+ 69,'How were the Thessalonias told to pray','Without ceasing ','All night long','By sacrificing anmals','Thrice in a day',2
+ 70,'What happened to the city of Jericho after the priest blew their trumphets','Walls fell down','They all died','The city stood firm','They all accepted the lord',2
+ 71,'Which garden did Jesus go to, to pray in before his arrest','Gethsemane','Eden','Vine','Golden',2
+ 72,'Who was instructed by God to leave his home and family to travel to a country he did not know','Abraham','Isaac','Jacob','Lot',2
+ 73,'What was Jesus teaching about when he said, "What therefore God hath joined together, let not man put asunder"','Marriage','Friendship','Prophet','Love',2
+ 74,'In the Lord''s Prayer, what follows the line, "Hallowed be thy name"','Thy Kingdom come','Thy will be done on earth','Forgive those who trespass against us','Give us this day',2
+ 75,'What was Jonah found doing on the ship while the storm was raging','Sleeping ','eating','praying','preaching',2
+ 76,'Five of the Ten Virgins did not take enough of what','oil','gasoline','kerosene','diesel',2
+ 77,'What was the name of Joseph''s master in Egypt','Potiphar','Archaeus','Hassan','Mohammed',2
+ 78,'Aaron turned his rod into a serpent before Pharaoh, and Pharaoh''s magicians did likewise, but what happened to their serpents','Aaron''s rod swallowed them','Aaron''s rode got damaged','Their snake swallowed Aaron''s snake','Nothing happenned',2
+ 79,'To which country did Mary and Joseph escape when Herod killed all the babies  in Bethlehem','Egypt ','Philistines','Syria','Rome',2
+ 80,'What is the name of the Angel who appeared to Mary','Gabriel','Michael','Raphael','Arch Angel',2
+ 81,'Which Land did the Lord promise to Abram','Canaan','Moab','Levite','Phillipines',2
+ 82,'What should we "seek first" ','The Kingdom of God and his righteousness','Love','Kindness','Power',2
+ 83,'Which Psalm contains the line, "He leads me beside the still waters"','Psalm 23','Psalm 105','Psalm 95','Psalm 92',2
+ 84,'In the parable of the ten virgins, what were they waiting for','Bridegroom','groom','Bestman','Bride''s parent',2
+ 85,'What event occurred to help release Paul and Silas from prison?','Earthquake','Volcano Eruption','Flood','Heavy down pour',2
+ 86,'How does James say we should "treat the rich and the poor"','Barabbas','Barnabbas','Basabbas','Barnabas',2
+ 87,'How many plagues did God send on Egypt','Ten','Nine','Five','Seven',2
+ 88,'When Jesus asked "whom say ye that I am?" what was Peter''s reply','Thou art the Christ, the Son of the living God','Thou art the Christ, the Son of the living Man','Thou art the Christ, the Most powerful','Thou art the Lord',2
+ 89,'What did King Solomon ask for when God appeared to him in a dream','Wisdom','Wealth','Power','Understand',2
+ 90,'Who said , "Whosoever shall not receive the kingdom of God as a little child shall not enter therein','Jesus','Peter','John ','Moses',2
+ 91,'How did the angel of the Lord appear to Moses, when he was a shepherd','From within a burning bush','Through his brother Aaron','In his dream','No angel appeared to Moses',2
+ 92,'Which of David''s descendants will reign forever','Jesus','Levites','Isrealites','Gentiles',2
+ 93,'On what mountain did Moses receive the law from God','Mount Sinai','Mount Zion','Mount Kilimanjaro','Mount Jordan',2
+ 94,'Which of his wives did Jacob love the most','Rachel','Leah','Michelle','Micah',2
+ 95,'What was the name of the ark where the commandments given to Moses were to be kept','Ark of the Covenant','Ark of God','Ark of Isrealites','The Ark',2
+ 96,'What did Jesus say to those who accused the adulteress','He that is without sin, let him first cast a stone','He that is without sin, let him first beat the woman','He that is without sin, let him first raise his hand','He that is without sin, let him go home',2
+ 97,'Where is the "best place to pray"','In your closet with the door shut','In you house','In the Church','In the open where people can see you praying',2
+ 98,'What does James say happens if we "draw nigh to God"','He will draw nigh to us','He will love us','He will pamper us','He will be our best friend',2
+ 99,'Where was Jesus baptized','River Jordan','River nile','River Niger','River Orange',2
+ 100,'Which plant is "the least of all seeds, but when it is grown, it is the greates among herbs"','Mustard','Grape','Corn','Cotton',2
+ 101,'Which city "came down from heaven prepared as a bride','New Jerusalem','Egypt','Judea','Bethlehem',2
+ 102,'At Capernaum, how did the man sick of the palsy gain access to the house in which Jesus was','Through the roof','Through the window','Through the door','Through space',2
+ 103,'What did God breathe into Adam''s nostrils','The breathe of life','The breathe of death','His breathe','Breathe of an angel',2
+ 104,'What did Pharaoh''s dream of good and bad ears of wheat represent','Seven years of plenty followed by seven years of famine','14 years of plenty','7 years of famine','5 years of plenty and 4 years of famine',2
+ 105,'To whom was the Revelation of Jesus Christ given','John','James','Andrew','Thomas',2
+ 106,'How long was Jonah stuck inside the great fish for','three days','Four days','Two days','Five days',2
+ 107,'When Jesus walked on water, which sea was it','Sea of Galilee','Sea of Capernaum','Sea of Jordan','Sea of Syria',2
+ 108,'Who told Joseph that Jesus would save his people from their sins','Angel of the Lord','His prohet','The Lord','His wife',2
+ 109,'Where did the man who received one talent from his master hide it','In the ground','In the water','In the sea','In  the whirlwind',2
+ 110,'To whom did Jesus say, "Why are ye fearful, O ye of little faith','The disciples','The apostles','The Congregation','The Phariseehs',2
+ 111,'What was the name of Hagar''s son','Ishmael','Laban','Saul','Jacob',2
+ 112,'Who was Jacob''s first wife','Leah','Rachel','Michelle','Rebecca',2
+ 113,'What was Jesus wrapped in when he was born','Swaddling clothes','Nylon','Tattered cloth','Leaves',2
+ 114,'What did the Isrealites do whilst Moses was receiving the Ten Commandments from God','Made of a golden calf','Made of a silver calf','Made of a broze calf','Made of diamond calf',2
+ 115,'What guided the Israelites through the wilderness','A pillar of cloud and fire','Moses','Aaron','A bird',2
+ 116,'At what age did Jesus start his ministry','Thirty','Twenty','Twenty-five','Thirty-two',2
+ 117,'What animal spoke to Balaam','Donkey','Camel','Dog','Parrot',2
+ 118,'What is the last book of the Old Testament ','Malachi','Habbakkuk','Obadiah','Jonah',2
+ 119,'What happened to Daniel after he gave thanks to God by his open window','He was thrown into the lions'' den','He was killed','He was punished','They did nothing to him',2
+ 120,'What was Jonah''s reaction to the way the people of the city of Nineveh responded to God''s message','He was angry','He was happy','He was sad','He felt indifferent',2
+ 121,'Zacharias and Elizabeth were told by an angel that they would have a son. What was he to be called','John','Thomas','Zacharia','Andrew',2
+ 122,'How did Jesus say we should receive the Kingdom of God','As a little child','As an Adult','As a mad man ','As a baby',2
+ 123,'What happened to anyone who was not found written in the book of life','They were cast in the lake of fire','They were forgiven','They will see God','They will be discarded',2
+ 124,'In his Sermon on the Mount, what does Jesus say about tomorrow','Take no thought for it','Prepare for it','Think about it ','Do nothing',2        
+ 125,'What did Joseph instruct to be put in Benjamin''s sack','His grain money and silver cup','His gold','his silver','His money',2
+ 126,'What did Paul do to the soothsayer which made her masters unhappy','Commanded the spirit of divination to leave her','Commanded that she falls sick','Commanded that she becomes blind','Commanded that she die',2
+ 127,'What was the name of the place where Jesus Christ was crucifies','Golgotha/Calvary','Jordan','Capernaum','Galilee',2
+ 128,'What object featured in Jacob''s dream at Bethel','Ladder','Gold','Stones','Houses',2
+ 129,'What are the names of Joseph''s parents','Jacob and Rachel','Jacob and Leah','Abram and Sarah','Jacob and Uriah',2
+ 130,'What animal did Samson kill on his way to Timnah','Lion','Tiger','Elephant','Hyena',2
+ 131,'What was the name of Ruth''s second husband','Boaz','Naaman','Hezekiah','Ezekiel',2
+ 132,'Complete this common phrase of thanksgiving found in the Bible: "O give thanks unto the Lord: for he is good: for his _______ endureth forever."','Mercy','Love','Kindness','Compassion',2
+ 133,'Who wrote the majority of the Psalms','David','Solomon','Joshua','Caleb',2
+ 134,'Which prophet anointed David as king','Samuel','Saul','Jesse','Amos',2
+ 135,'A "soft answer turneth away..."what','Wrath','Peace','Kindness','Love',2
+ 136,'What job did the Prodigal Son up taking after he had spent his inheritance','Pig feeder','Gardener','Tax collector','Fisherman',2
+ 137,'Why shouldn''t we give anyone the title of "Father"?','We have one father, who is in heaven','Because we were born with only 1 father','Because it is not right',NULL,2
+ 138,'What kind of water does Jesus discuss with the Samaritan woman at the well','Living water ','Well','river','Stream',2
+ 139,'How did Jesus heal the blind man','He covered his eyes with clay and told him to wash','prayed for hime','payed his operation due',NULL,2
+ 140,'Where did Jesus find Zacchaeus, the tax collector','Up a tree','under a tree','in between the tree','on a ladder',2
+ 141,'What is the name of Jesus'' cousin, born six months before him','John','Jude','James','Josiah',2
+ 142,'Who was the first Child born','Cain','Seth','Zilus','Zeus',2
+ 143,'Which apostle, who was described as "full of grace and power, and doing great wonders and signs among the people ", was stoned to death','Stephen','Peter','Simeone','Levi',2
+ 144,'Who deceived Jacob by giving Leah as a wife instead of Rachael','Laban','Lagan','Hamaan','Naaman',2
+ 145,'What did Jesus send disciples to fetch on his triumphal entry into Jerusalem','Donkey and colt','new cloth','palm fond','Donkeys',2
+ 146,'In the parable of the lost sheep, how many sheep did the sheperd count safely into the fold','Ninety-nine','Seventy-seven','sixty-five','Seventy-two',2
+ 147,'What does James say we should say when we make our future plans','If the Lord will, I will do this or that','trust in God','Believe in God ','trust in man',2
+ 148,'What type of coin did Judas accept as payment for betraying Jesus','Silver','brass','gold','bronze',NULL
+ 149,'What was the writer of the letter asking of Philemon','To receive his slave back as a brother in Christ','To kill the slave masters','To be closer to God ','To be friends with the slave',2
+ 150,'What was the covenant between God and Noah','Never to flood the earth again','Never to destroy again','Never to destroy using thunder ','By using rainbow as a reminder',2
+ 151,'Which prophet said, "Behold, a virgin shall be with child, and shall bring forth a son"','Isaiah','Ezekiel','Joshua','Ruth',2
+ 152,'To what object does james compare the tongue','The rudder on a ship','knife','blade','cutlass',2
+ 153,'Which of David''s sons rebelled against him','Absalom','Solomon','Obadiah','Micah',2
+ 154,'What does Paul say about women''s long hair','It is a glory to her','It is an honour to her','It is her virtue','It is her identity',2
+ 155,'What did Naomi tell the people in Bethlehem to call her','Mara','Clara','Ciara','Daryl',2
+ 156,'When Jesus told his disciples to beware of the "leaven of the Pharisees and Sadducees", to what was he referring','The doctrines of the Pharisees and Sadducees','The word of the pharisees','The lies of the pharisees','The deceit of the pharisees',2
+ 157,'How was Daniel protected from the lions in the den','An angel shut their mouths','An angel shut their eyes','They slept throughout his stay there','They played together',2
+ 158,'Everyone that is proud in heart is what to the lord','An Abomination','A bad omen','A proud individual','A sinner',2
+ 159,'What did John the Baptist say when he saw Jesus','Behold the lamb of God','Behold the son of man','Have mercy upon me','The King is here',2       
+ 160,'How did the city that Jonah was sent to react to God''s message of destruction','They repented','They continued with their merry','They went moved far away from God','They didnt believe Jonah',2
+ 161,'Who asked Jesus to remember him when he came into his kingdom','The Criminal on the cross','Peter ','Cyrene','Barsabas',2
+ 162,'Of what, specifically, was man not allowed to eat in the Garden of Eden','tree of knowledge of good and evil','tree of beauty and ugly','tree of power','tree of freedom',2
+ 163,'What was Solomon famous for building','Temple','Mosque','Market','School',2
+ 164,'Jesus asked: "Can the blind lead the ____','Blind','Way','People','Intelligent',2
+ 165,'Who told Peter to "watch and pray that he entered not into temptation','Jesus','God','Angel','Paul',2
+ 166,'What is Paul''s command to husbands in his letter to the Colossians','Love your wives, and do not be bitter towards them','Whip your children','Protect your families','Pay you tithes',2
+ 167,'Which river was Naaman told to wash in to rid himself of leprosy','Jordan','Nile Congo ','Orange','Lipopo',NULL
+ 168,'What miracle had Jesus performed when he said, "It is I; be not afraid"','Walking on water','Waking the dead','Healing the blindman','Turning water into wine',2
+ 169,'Why did Solomon turn away from God when he was old','His foreign wives turned his heart after other gods','Because of wealth','Because of his wisdom','Beacause of his power',2
+ 170,'What is the "chorus in Psalm 136 which is repeated in every verse','For his mercy endureth forever','For the lord is good','Lamb of God','God is able',2
+ 171,'in what city was Jesus brought up as a child','Nazareth','Judea','Bethlehem','Jerusalem',2
+ 172,'Which female judge described herself as a mother of Israel','Deborah','Ruth','Esther','Michelle',2
+ 173,'After the angels had anounced the birth of Christ and left the sheperds, what did the shepherds do','Went quickly to Bethlehem','Went to Egypt','Didnt go to any place','Were rejoicing with God',2
+ 174,'According to Peter, what "covers a multitude of sins"','Love','Affection','Kindness','Peace',2
+ 175,'In prison, for whom did Joseph interpret dreams','The butler and the baker','The servant','His brother','His friend',2
+ 176,'To what preservative does the Lord compare his disciples','Salt','Honey','Pepper','Onion',2
+ 177,'What was Jesus'' first miracle','Changing water into wine','Raising Lazarus from death','Healing the blind','Healing the dumb',2
+ 178,'Who spotted Moses in the Nile placed in an ark of bulrushes','Pharaoh''s daughter','A nurse','Pharaoh''s daughters'' servant ','Moses mum',2      
+ 179,'Who was Bathsheba''s first husband ','Uriah','David','Solomon','Daniel',2
+ 180,'Why were Daniel''s three friends thrown into the fiery furnance','They wouldn''t bow down to Nebuchadnezza golden image','They were disobedient to the king','they do not respect any','They were eating the contraband',2
+ 181,'Out of the ten lepers who Jesus healed, how many came back to say thank you','One','two','three','zero',2
+ 182,'What did Jesus say the sellers had turned his house of prayer into','A den of thieves','A place of market','A place of businness','A place of worship',2
+ 183,'In the New Jerusalem where are the names of the twelve tribes written','on the twelve gates','On the main door','On a banner in front of the gate','In the temple',2
+ 184,'How often was the year of the Lord''s release','Every seven years','Every two years','Every nine years','Every lamp',2
+ 185,'Which tribe of Israel looked after the religious aspects of life','Levi','Dan','Manasseh','Benjamin',2
+ 186,'Where was Paul when he wrote the letter to Philemon','In prison','In church','In a synagogue','With the prime miniter',2
+ 187,'Who preached, "Repent ye: for the kingdom of heaven is at hand"','John the Baptist','Jesus','Peter','James',2
+ 188,'What was the name of James'' and John''s father','Zebedee','Zebadee','Zebed','Joachim',2
+ 189,'What bird did God provide to the Israelites for meat in the wilderness','Quail','Vulture','Dove','Parrot',2
+ 190,'Who closed the door of Noah''s ark','God','Noah','The Quail ','The donkey',2
+ 191,'"Hate stirs up strife", but what does love cover','All sins','All emptiness','All hatred','All sadness',2
+ 192,'Who wrote the line: "The Lord is my Sheperd, I shall not want"','David','Solomon','Rehoboam','Samuel',2
+ 193,'Which prisoners experienced an earthquake after their prayer','Paul and Silas','Paul and Timothy','Timothy and Silas','Timothy and Peter',2       
+ 194,'What was the name of Joseph''s youngest brother','Benjamin','Reuben','Joseph','Silas',2
+ 195,'Who did Jesus pray for that his faith failed not','Simon(Peter)','Andrew','Thomas','John',2
+ 196,'What was the new name given to Daniel while in captivity','Belteshazzar','Mashack','Shradack ','Abednego',2
+ 197,'Which wise man wrote the majority of Proverbs','Solomon','David','Absalom','Michelle',2
+ 198,'Which king asked for the foreskins of 100 Philistines','Saul','David','Solomon','Josiah',2
+ 199,'Who rolled away the tomb stone','An Angel','Jesus','Peter','John',2
+ 200,'What did Samson find in the carcass of the animal he had killed at a later time','Bees and honey','Bread and wine','Grape fruit','Fish',2
+ 201,'What animal spoke to Balaam','Donkey','Horse','Cow','parrot',2
+ 202,'What is the last book of the Old Testament','Malachi','Sirach','Baruch','Habbakkuk',2
+ 203,'What happened to Daniel after he gave thanks to God by his open window','He was thrown into lion''s den','He was thrown into a prison ','He was executed','He was tried in court',2
+ 204,'What was Jonah''s reaction to the way the people of the city of Nineveh responded to God''s message','He was angry','He was sad','He was happy','He was not encouraged',2
+ 205,'Zacharias and Elizabeth were told by an angel that they would have a son. What was he to be called ','John','James','Jesu','Joshua',2
+ 206,'How did Jesus say we should receive the Kingdom of God','As a little child','As an old man','As someone ready to learn','As a sensible person',2  
+ 207,'What happened to anyone who was not found written in the book of life','They were cast in the lake of fire','They were beaten','They were punished','They were forgiven',2
+ 301,'When he was approached by Jesus, who said, "What have you to do with me,Jesus, Son of the Most High God? I adjure you by God, do not torment me"','Legion','the blindman','The Leprous man','The madman',2
+ 302,'What was the reason that Jacob and his family began a new life in Egypt','Famine in Canaan','War in Canaan','Corruption in Canaan','Infighting in Canaan',2
+ 303,'How was Isaac''s wife chosen','His father choose her within his family','Went to Egypt to choose her','Prayed and she was revealed to him in his dream','Organized a beauty contest',2
+ 304,'Whose father was so pleased to see him that he gave him the best robe and killed the fatted calf','Prodigal Son','Isaac','Jacob','David',2        
+ 305,'What was the name of Solomon''s son who succeeded him as king','Rehoboam','Jeroboam','Josiah','Absalom',2
+ 306,'How did the people listening to the Sermon on the Mount view Jesus'' teachings','He taught with authority','He taught with boldness','He taught with fear in his face','He taught without blabbering',2
+ 307,'What does faith require to make it a living faith','Works','Miracle','Wonders','Success',2
+ 308,'What did Jesus say you should do if someone asks you to go with them for a mile','Go with them for two miles','Go with them for 5 miles','Go with them for 4 miles','Go with them for seven miles',2
+ 309,'In the parable of the grain of mustard seed, when it becomes a tree birds come and do what','Build nests','Build nets','Feed the birds','Do nothing',2
+ 310,'The field that Judas Iscariot purchased with his betrayal money was called Aceldama, but as what was it also known','Field of blood','Field of betrayal','Field of war','Field of Sadness',2
+ 311,'Who did Jesus raise from the dead by a prayer of thanks to God','Lazarus','Naaman','Cornelius','John',2
+ 312,'The king''s wrath is as "the roarin" of what','A lion','Tiger','Leopard','Cheetah',2
+ 313,'What was the name of Ruth''s son','Obed','Jesse','Kings','Cyrene',2
+ 314,'According to James, what happens if you break one commandment of the law','You are guilty of breaking the whole law','You are guilty of breaking part of the law','You are not guilty of anytin','You are guilty of 2 sins',2
+ 315,'"Go to the _________, thou sluggard; consider her ways, and be wise." What animal should we take lessons from','Ant','Bee','Coackroach','Lion',2  
+ 316,'Who was the tax collector that climbed up a tree so he could see Jesus','Zacchaeus','Matthew','Dorcas','Simon',2
+ 501,'In which tribe was the city of Bethlehem','Judah','Levi ','Dan','Simeone',2
+ 502,'What was Peter doing when he denied Jesus for the second time','Warming himself by a fire','Eating at home','Playing with his kids','Praying to God',2
+ 503,'What did Jonah do while he waited to see Nineveh''s fate','He sat down on the East of the city and made a shelter ','He sat down on the South of the city and made a shelter ','He sat down on the North of the city and made a shelter ','He sat down on the West of the city and made a shelter ',2
+ 504,'Who carried the cross for Christ','Simon of Cyrene','Simon ','Peter','John son of zebedee',2
+ 505,'On which mountain range did Noah''s ark come to rest','Ararat','Afarat','Sinai','Everest',2
+ 506,'Which two tribes of Isreal were not named after sons of Jacob','Ephraim and Manasseh','Ananias and Sapphira','Dan and Levi','Reuben and benjamin',2
+ 507,'What did the Queen of Sheba give to Solomon','Gold, spices and precious stones','Brass and Diamond','Gold, silver, Bronze','Gold, Silver and bronze',2
+ 508,'What should Philemon do if his slave owed him anything','Charge it to Paul','Beat them','Punish them','forget about their debts',2
+ 509,'How many books are there in the Old Testament','39','49','29','45',2
+ 510,'According to Old Testament law, what should you not cook a young goat in','Its mother''s milk','In water','In oil','There is no such thing in the bible',2
+ 511,'What did Joseph want to do when he discovered Mary was pregnant','Divorce her ','Beat her up','Question her','Marry her',2
+ 512,'What did Boaz say Naomi was selling','A parcel of land','Cloth','Animal','Ornaments',2
+ 513,'Abram was rich in gold, silver and what else','Cattle','Bronze','Donkey','Diamond',2
+ 514,'How much of Elijah''s spirit did Elisha receive','Double(portion)','Thesame(portion)','Triple(Portion)','Quadruple(portion)',2
+ 515,'What was unusual about the 700 Benjamite soldiers who could sling a stone and hit their target every time','They were all left-handed','They were all right-handed','They were all tall','There is nothing unusual about them',2
+ 516,'What relation was Annas to Caiaphas','Father-in-law','Brother-in-law','Step-brother','Father',2
+ 517,'According to James, what is "pure and undefiled religion"','To visit the fatherless and windows, and to keep yourself unspotted from the world','To visit the motherless and widows, and to keep yourself unspooted from the world','To visit the orphans','To keep yourself unspotted from the world',2
+ 518,'When in prison at what time did Paul and Silas pray and sing to God','Midnight','Early in the morning','Afternoon','They did not pray and sing at any time',2
+ 519,'What did Daniel and his three friends eat instead of the king''s meat and drink','Pulses and water','Vegetables','They did not eat anything','Bush meat',2
+ 520,'What did Jesus say is the "greatest commandment in the law"','To love God with all your heart, soul and mind','Not to Kill','Not to commit Adultery','To do unto others what you want them to do unto you',2
+ 521,'Who was afflicted with leprosy for speaking out against Moses','Miriam','Manasseh','Guri','Dan',2
+ 522,'After the Babylonian exile, the Jews sought wealth and possessions for themselves. What should they have been doing','Rebuilding the temple','Rebuilding their city ','Rebuilding their various houses','Blessing the name of the Lord',2
+ 523,'What did God count Abram''s faith to him as','Righteousness','Faithfulness','Holiness','Obedience',2
+ 524,'What sin stopped Moses from leading the children of Isreal into the Promised Land','Hitting a rock twice','Cursing back at the Isrealites','Failing to worship God','Didn''t heed to God''s advice',2
+ 525,'Whose hair when cut annually weighed two hundred shekels by the king''s weight','Absalom','Micah','Ruth','Haman',2
+ 526,'During what traumatic event did the apostle Paul take bread and give thanks','Sea voyage','Storm','Earthquake','Volcano Eruption',2
+ 527,'Which man killed a lion with his bare hands','Samson','Habakkuk','Barsabbas','Noah',2
+ 528,'What was the sign that the angels gave to the sheperds, so that they would recognize Jesus','Wrapped in swaddling clothes, lying in a manger','Wrapped in turn clothes, lying in the manger','They weren''t given any sign','They were shown in their dreams',2
+ 529,'Who was to be named Zacharias, after the name of his father, until his mother intervened','John','James','Paul','Silas',2
+ 530,'In what town did Jesus turn water into wine','Cana','Nazareth','Bethlehem','Jerusalem',2
+ 531,'How long had the infirm man lain at the pool of Bethesda','38 years','37 years','30 years ','35 years',2
+ 532,'What "doeth good like a medicine"','A merry heart','A playful heart','Alcohol','The holy bible',2
+ 533,'What was God to give Abraham as an everlasting possession','The land of Canaan','Lot of Cattles','Sons and Daughter','The leadership of his country will be given to him and his descendants',2
+ 534,'What lie was told about Naboth that led to him being stoned and Ahab taking possesion of his vineyard','He had blasphemed against God and the King','He has blasphemed against the King','He has blasphemed against King','He committed adultery',2
+ 535,'Which supernatural being or beings does the Bible say the Sadducees did not believe in','Angels','Spirit ','Jesus','Saints',2
+ 536,'Who won the hand of Caleb''s daughter, Achsah','Othniel','Jesophat','Rehoboam','Naaman',2
+ 537,'What is the light of the Body','The eye','The soul','The tongue','the brain',2
+ 538,'The southern kingdom of divided Isreal eventually fell, but to which great power','Babylon','Canaanites','Romans','The Gentiles',2
+ 539,'You will be healed if you "pray for one another" and what else','Confess your faults ','Love others','Never be angry at people','Be a man of virtue',2
+ 540,'What is in the hypocrite''s eye','A beam','Lust','Jealousy','Popularity',2
+ 541,'Which book of the Bible follows Jonah','Micah','Amos ','Ezra','Nehemiah',2
+ 542,'What inscription was on the altar in Atens','To the Unknown God','To the God of host','To the God of Isrealites','To the King of Jews',2
+ 543,'In which book of prohepcy do we read about the valley of dry bones','Ezekiel','Amos','Micah','Joshua',2
+ 544,'Which baby was named after his mother''s laughter','Isaac','Jacob','Enoch','James',2
+ 545,'Demetrius, of Ephesus was a...','Silversmith','Goldsmith','Capenter','Tax Collector',2
+ 546,'On which day of the year could the High Priest enter the Holiest Place, the inner most part of the temple where the convenant box was kept','Day of Atonement','Day of Sabath','Second day of the week','Day after Sabath',2
+ 547,'What was the name of the temple gate at which the lame man was laid daily','Beautiful gate','Glorious Gate','Temple Gate','Awesome Gate of the Temple',2
+ 548,'To which Jewish sect did Nicodemus belong','Pharisees','Saducees','None','Both Pharisees and Saducees',2
+ 549,'What is the first recorded dream of Joseph, son of Jacob','Sheaves of wheat bowing down to other sheaves','The dream of 7 years of plenty and 7 years of  famine','The dream that the Cook of Pharaoh will die after his release from prison','The dream that Pharaoh''s servant will be released from prison',2
+ 550,'To which tribe did the apostle Paul belong','Benjamin','Reuben','Manasseh','Dan',2
+ 551,'How does James say we should "wait for the coming of the Lord"','Patiently','Fervently','Prayerfully','Carefully',2
+ 552,'"The blessed man will be like a tree planted by"....what','Rivers of water','Rivers filled with salt','Ocean','On the Rock',2
+ 553,'How old was Abraham when his son Isaac was born','100','98','90','97',2
+ 554,'In the parable of the Pharisee and the Publican, what did the Pharisee thank God for','That he was not sinful like other men','That God provided for his family','That his plants did very well','That he was blessed with peace of mind',2
+ 555,'How many times did Jesus say you should forgive your brother when he sins against you','77 times','88 times','99 times','100 times',2
+ 556,'What question concerning marriage did the Pharisees use to tempt Jesus','Is it lawful for a man to put away his wife','His it good for a man to borrow money','Is it good for a man to be angry','Are miracles good',2
+ 557,'How does Paul tell us to work out our own salvation','With fear and trembling','With prayer anf fasting','With just prayers','By loving one another',2
+ 558,'In the parable of the cloth and wine, why does no man put new wine into old bottles','It will burst the bottltes','It will do nothing to the bottle','the bottle will become crackek','The water in the bottle will overflow',2
+ 559,'In which city did King Herod live at the time of Jesus'' birth','Jerusalem','Rome','Egypt','Nazareth',2
+ 560,'What is the root of all evil','Love of money','Love of possesion','Love of satan','Hatred',2
+ 561,'What does the law say to do when you see a bird in its nest','Let the mother bird go free','Kill the bird and eat','Kill the bird and sacrifice it to me','Do nothing',2
+ 562,'In Nebuchadnezzar''s dream what happened to destro the statue made from different metals','A stone hit the feet and broke them into poeces','It was hacked down by hoodlums','It stood firm when stones were thrown at it','it was rigid',2
+ 563,'Which tribe of Isreal received no inheritance of land','Levi','Dan ','Joseph','Canaan',2
+ 564,'Which king took possesion of Naboth''s vineyard','Ahab','Hezekiah','Solomon','Jeroboam',2
+ 565,'For how many days did Jesus appear to his disciples after his resurrection','40 ','50','30','20',2
+ 566,'Who did Paul write a letter to concerning his slave Onesimus','Philemon','Silas','Titus ','Peter',2
+ 567,'How many churches of Asia Minor were listed in Revelation','7','6','10','15',2
+ 568,'What oblect did Gideon place on the ground to receive a sign from God','Fleece','Gold','Plastic','Robe',2
+ 569,'Why did Moses'' hand become leprous','As a sign','Because of what he was holding','Punishment for disobeying God','For cursing',2
+ 570,'In which city in Judah did Cyrus tell the Isrealites to build the temple','Jerusalem','Bethlehem','levi','Rome',2
+ 571,'Which missionary was described as having "known the holy scriptures from early age"','Timothy','Paul','Silas','Titus',2
+ 572,'What affliction did Paul strike Elymas the sorcerer down with','Blindness','Leprosy','Sickness','Headaches',2
+ 573,'Who was Boaz a kinsman of','Elimelech','Mechidech','Paul','Ahab',2
+ 574,'What animals were carved on Solomin''s throne','Lions','Tigers','Leopards','Elephants',2
+ 575,'What did Jesus and the disciples have for breakfast when Jesus appeared to them after the resurrection by the Sea of Tiberias','Bread and Fish','Bread and wine','Grape','Vegetables',2
+ 576,'Which woman was a seller of purple goods','Lydia','Absalom','Esther','Ruth',2
+ 577,'What were the restrictions on marriage for the daughters of Zelophehad','They must marry within their tribe','They must marry their sisters','They must marry outside their tribes','They can marry anybody',2
+ 578,'Who said, " A light to lighten the Gentiles, and the glory of thy people Isreal," when he saw Jesus','Simeon','Cornelius','Nicodemus','Matthew',2 
+ 579,'How did Moses assure victory against the Amalekites','Kept his hands held up','Prayed to God','Sacrifed a lamb to God','Made sure all isrealites fasted',2
+ 580,'What was the occupation of Hosea''s wife','Harlot','Trader','Farmer','Painter',2
+ 581,'In the Sermon on the Mount, what does Jesus say you should do when you fast','Anoint your head, and wash your face','Do not brush','You can take water','Do not go to work',2
+ 582,'Which church did Jesus accuse of being Lukewarm','Laodicea','Nazareth''s church','Modecai','Zion',2
+ 583,'Why are the Thessalonians told not to worry about those Christians who have died','They will be raised to life again','They will be with God','They will become angels','Nothing will happen to them',2
+ 584,'In the parable of the sower, what happened to the seed that fell on the path','Eaten by birds','Eaten bby vultures','Was walked over by people','It became rotten',2
+ 585,'What was the name of the man who requested Jesus'' body for burial','Joseph of Arimathaea','Joseph of Cyrene','Joseph of Judah','Joseph the dreamer',2
+ 586,'How many Philistines did Samson say he ahd killed with the jawbone of a donkey','1000','500','5000','2000',2
+ 587,'Which book of the Bible precedes Jonah','Obadiah','Micah','habbakkuk','Psalms',2
+ 588,'Who did Samuel anoint as the first King of Israel','Saul','David','Solomon','Jonathan',2
+ 589,'What was mankind''s first sin inthe Bible','Eating some fruit','Fornication','Blasphemy God','Disobedience',2
+ 590,'What was the first bird released from the ark','Raven','Birds','Monkeys','Parrots',2
+ 591,'What nationality was Timothy''s father','Greek','Roman','Gentile','Israelite',2
+ 592,'In revelation, what is the number of a man','666','555','333','444',2
+ 593,'How many elders sat around the throne of God','24','22','20','27',2
+ 594,'What order did Joshua give to God while fighting the Amorites','Make the Sun and the Moon stand still','Make the Amorites weak','Make the Amorites defenceless','Make the Amorites fight each other',2
+ 595,'How many years did the Lord add to Hezekiah''s life after being healed of his sickness','15','20','10','25',2
+ 596,'What was the second plague upon Egypt','Frogs','Snakes','Boils','Death',2
+ 597,'Which disciple looked after Mary, after the death of Jesus','John','Andrew','Thomas','James',2
+ 598,'Jesuss was a high priest after the order of which ancient king, mentioned in Psalm 110','Mechizedek','David ','Joseph','Saul',2
+ 599,'Which two provinces looked up to Thessalonica as an example','Macedonia and Achaia','Cyprus and Syria','Macedonia and Syria','Cyprus and Rome',2  
+ 600,'Who was Noah''s father','Lamech','Enoch','Lot','Ninah',2
+ 601,'Who did Pilate send Jesus to after he had interrogated  him','Herod','Ceasar','Pontius Pilate','Saul',2
+ 602,'Daniel had a dream about four things. what sort of things','Beasts','Locusts','Famine','Diseases',2
+ 603,'In the parable of the sower, what did the seed that fell among thorns represent','Those people who hear God''s word but then it''s choked by worldly cares','Those people that hear God''s word but do not heed to it','Those who disobey God''s commandment','Those who fail tolisten to the word of God',2
+ 604,'Who was the father of Jonah','Amittai','Dagon','Hiram','Ahab',2
+ 605,'What relation to Abram was Lot','His nephew','His uncle','His cousin','His Brother',2
+ 606,'Who will the least person in the Kingdom of God be greater than','John the Baptist','Abraham','Peter','Judas',2
+ 607,'In what month of Elisabeth''s pregnancy did the angel appear to Mary','6th','5th','4th','9th',2
+ 608,'What was the content  of the cupbearer''s dream interpreted by Joseph','A vine bringing forth grapes which are pressed in to a cup','A cup full of blood','A cup that is empty','Acup overfilled with wine',2
+ 609,'Hope deferred maketh what sick','The heart','God','Satan','The Soul',2
+ 610,'Who laid their hands on Saul of Tarsus, cursing him of the blindness he received on the road to Damascus','Ananias','Saphirra','Paul','Silas',2   
+ 611,'Who was Paul with when he wrote the letter to Philemon','Timothy','Silas','Cornelius','Peter',2
+ 612,'What did Joseph send to his father from Egypt','Ten male donkeys and ten female donkeys laden with goods','Ten male horses and Ten female horses laden with goods','Ten male cows and ten feamle cows laden with goods','goods',2
+ 613,'In which town did Martha and Mary live','Bethany','Rome','Corinthia','Judea',2
+ 614,'Who stole her father''s household gods','Rachel','Leah','Abasalom','Esther',2
+ 615,'What was the fate of the man who had no wedding robe at the parable of the marriage feast','Cast into darkness','Was sent away','Was destroyed','Was lent a robe',2
+ 616,'How long did Solomon reign over Israel','40 years','30years','50 years','45 years',2
+ 617,'In Psalm 52, the psalmist describes himself as what kinf=d of tree in the house of God','Olive','Vessel','Grape','Citrous',2
+ 618,'Who was compared unfavorably to the lilies of the field ','King Solomon','King David','King Rehoboam','King Saul',2
+ 619,'Of what did Peter and John heal the man at the temple gate called Beautiful','Lameness','Blindness','Dumbness','Fearless',2
+ 620,'Which region was specially noted for its balm','Gilead','Dan','Canaan','Syria',2
+ 621,'What should the Thessalonians do wwith brethren who are not obeying the epistle''s word','Have no company with them so that they are ashamed ','Kill them','Isolate from them','Beware of them',2
+ 622,'Why should a father not provoke a child to anger','So that they do not get discouraged','So that they do not get upbeat','So that they do not become unrelentless','So that they do not become hooligans',2
+ 623,'What did God rain down on the Amorite army as they passes through Beth-Horon, killing more of them than the Isrealite army did','Hailstones','Manna','Ice blocks','Fire',2
+ 624,'While John was baptizing, what did he call the Pharisees and Sadducees','Generation of vipers','Generation unworthy of God','Generation of unGodly people','Wicked generation',2
+ 625,'Whose son did Elijah raise from the dead','The widow of Zarephath','Widow of Mata','Widow of Josephine','Widow of Uriah',2
+ 626,'Which group of people stood and watched Jesus as he ascended into heaven','Disciples','Apostles','Believers','Pharisees',2
+ 627,'What object did Elisha cause to float','Axe head','Big stone','Temple','Gold',2
+ 628,'By what name was the disciple Tabitha also known','Dorcas','Mata','Michelle','Rita',2
+ 629,'From which land did Isaac tell Jacob not to take a wife','Canaan','Amorite','Dan ','Reuben',2
+ 630,'How does Paul describe marriage Hebrews','Honorable','Enjoyable','Presentable','Peaceful',2
+ 631,'To whom was jesus referring when he said "Go tell that fox, behold i cast out devils"','Herod','Ezekiel','Amos','Peter',2
+ 632,'How old was Joseph when he began serving Pharaoh','30','25','23','35',2
+ 633,'What did naboth refuse to sell','Vineyard','Wife','House','Farm',2
+ 634,'Which living creatures in the water were deemed unclean','Those without fins and scales','Those without tails','those without scales','Those without anal fins',2
+ 635,'What must a Christian do to "earn their own bread to eat"','Work quietly','Sleep well','Work to please people','Be calm',2
+ 636,'What was the name of the father of Caleb the spy','Jephunneh','Asa','Zadok','Abiud',2
+ 637,'Which apostle baptized the Ethiopian Eunuch','Philip','John','Thomas','Andrew',2
+ 638,'Who promised the "gift of power to tread on serpents and scorpions','Jesus','Moses','David','Ezra',2
+ 639,'Which king was saved from death by Abraham''s prayer','Abimelech','Obadiah','Abiud','Azor',2
+ 640,'What did Abram do when he heard that lot was made a prisoner of war','Fought to rescue him','Begged for his release','Did nothing','Kidnapped one of the prison leader',2
+ 641,'Who sang, "My soul doth magnify the lord"','Mary','Esther','Ruth','Absalom',2
+ 642,'At what place did the Isrealites arrive only to find the water was too bitter to drink, where upon God caused it to become sweet','Marah','Cacum','Babylon','Canaan',2
+ 643,'Which Psalm describes how well the Lord knows man, starting with the line, "O Lord, thou hast searched me, and known me"','Psalm 139','Psalm 93','psalm 145','Psalm 50',2
+ 644,'when Moses blessed the tribes before his death, to what animal did he compare Gad','lion','Tiger','Monkey','Zebra',2
+ 645,'When Saul defeated the Amalekites he disbeyed God and took possesions from the land. What was the name of the king he also spared','Agag','Haggag','Agog','Haggog',2
+ 646,'What was Paul''s "distinguishing mark" in the letters he wrote','He wrote the greeting s in his own writing','The title''s were all in capital letter','He greets the elders before others','He treats both the leaders and followers equally',2
+ 647,'Which King had a feast using the gold and silver vessels taken from the temple in Jerusalem','Belshazzar','Achim','Eliud','Matthan',2
+ 648,'The fear of the Lord is the beginning of knowledge, but fools despise what','Wisdom and Instruction','Obedience','Righteousness','Love',2
+ 649,'How should a merry person behave, according to James','Sing Psalms','Worship God','throw parties','Feed Neighbours',2
+ 650,'What sacrifice did Mary and Joseph offer when the days of purification were complete after Jesus'' birth','2 turtledoves','2 birds','2 lambs','2 sheeps',2
+ 651,'Who sat down under a tree and asked the lord to take away his life','Elijah','Elisah','Enoch','Saul',2
+ 652,'What god did the Philistines offer sacrifices to','Dagon','Paga','Lisa','Soza',2
+ 653,'Which judge unknowingly vowed his daughter to the lord as a burnt offering','Jephthah','Eliud','Adok','Aliud',2
+ 654,'God appeared to jacob on the way to Eqypt in a vision at Beer-sheba, but what did he tell him','Dont fear going into Egypt','Dont go to Egypt','Do not marry an Egyptian woman','Egypt will be a great nation',2
+ 655,'What did God tell the people not to eat after the flood','Blood','Meat','Vegetables','Flesh',2
+ 656,'What punishment was given to Gehazi for his greed','Made leprous','Made blind','Made dumb','Made lame',2
+ 657,'How did Rahab let the invading Isrealites identify her house','Tied a red thread in the window','Opened the window','tied a black thread on the door','Opened the door',2
+ 658,'Which angel told Daniel the meaning of his vision of the ram and the goat','Gabriel','Raphael','Michael','Sapphirra',2
+ 659,'Which king helped Solomon with his building projects','Hiram','David','Mana','Ahab',2
+ 660,'How many missionary journeys did Paul undertake before his journey to Rome','3',' 5','7','9',2
+ 661,'What was Timothy advised to tke to help with his illnesses','Wine','Bread ','Fish','Tea',2
+ 662,'What happened to the prophet from Judah who was led to disobey God when a prophet from Bethel lied to him saying he was allowed to come back and share a meal with him','Killed by a lion','Killed by hyena','killed by a serpent','Killed by the King',2
+ 663,'Who was the goddess of the Ephesians','Diana','Dagon','Arah','Lisa',2
+ 664,'How amny volunteer soldiers did Gideon have initially','12,000','300','15,000','5000',2
+ 665,'What will Jesus drink new in the kingdom of God','The fruit of the vine','wine','grapefruit','Orange',2
+ 666,'What objects did Gideon and his army use to defeat the Midianites','Trumpets,pitchers and lamps','Guns','Bow and Arrows','Songs of praise',2      
+ 667,'Who had a slave named Onesimus','Philemon','Peter','Manaseh','ananias',2
+ 668,'in which province was Thessalonica located','Macedonia','Cyprus','Syria','Rome',2
+ 669,'Which is the shortest Psalm','Psalm 117','Psalm 75','Psalm 149','psalm 5',2
+ 670,'How did the townspeople regard Ruth','As a virtuous woman','As a good queen','As a good judge','A troublesome women',2
+ 671,'In revelation, how many people from each tribe were sealed','12,000','14,000','10,000','8,000',2
+ 672,'Who slept under a jumper tree after fleeing for his life','Elijah','Moses','Aaron','Elisah',2
+ 673,'Who thought that the gift of God could be purchased with money','Simon','James','Zacchaeus','Mani',2
+ 674,'What is described as a tree of life to them that lay hold upon her','Wisdom','Power','Knowledge','Understanding',2
+ 675,'What relation was John mark to Barnabas','Cousin','Niece','Nephew','Uncle',2
+ 676,'Finish the proverb: "The rod and reproof give wisdom, but a child left to himself."..','will bring his mother to shame','will become a mad person','will be great in life','will make a lot of mistakes',2
+ 677,'Why wasnt David allowed to build God''s house','Because he was a man of war','He was a tough and difficult man','He lacks the wisdom to build such a temple','He has no resources',2
+ 678,'Which parts of his body did Peter ask Jesus to wash, after being told that unless Jesus washed his feet he would have no part with him','Feet, hands and head','Face,Feet and leg','Face, Feet and hands','Head and hands',2
+ 679,'What did the holy spirit look like when the disciples received it','Tongues of fire','Storm','White as a dove','Cool and calm',2
+ 680,'Which two of the eight signs, or miracles, recorded in John, are also recorded in other gospel records','Jesus walks on water and Feeding of 5,000','None of them','Raising Lazarus from the dead and healing the bling beggar','Turning wine into bread and feeding 5,000',2
+ 681,'Who led the people of Israel into the promised land','Joshua','Moses','Caleb','Daniel',2
+ 682,'With what object did Jael kill Sisera','Tent peg','Spear','Arrow Stone','Poison',2
+ 683,'Praise ye him, all his angels: praise ye him, all his hosts", is followd by which line','Praise ye him, sun and moon, praise him all ye stars of light','Praise ye him, man and woman, all ye sons of God','Praise ye him, day and night, all month and year','Praise ye him, for he his right and just',2
+ 684,'Which of Leah''s sons brought her mandrakes','Reuben','Dan','Joseph','Benjamin',2
+ 685,'It is better to obtain wisdom than what','Gold','Power','Knowledge','Wealth',2
+ 686,'In which book of the Bible do we read of David and Goliath','1 samuel','1 king','2 King','Daniel',2
+ 687,'Many of the chief rulers privately believed in Jesus . Why did they not confess this publicly','Were afraid of the pharisees','Afraid people might turn against them','Afraid people might no longer respect them','Afraid of the saducees',2
+ 688,'When Jesus left Nazareth and began his ministry in Capernaum, what message did he preach','Repent','Be a cheerful giver','Be your brothers keeper','Love your enemies',2
+ 689,'According to James, what should we do after "confessing our faults to one another"','Pray for one another','love one another','Fast','Believe in God',2
+ 690,'How old was Joshua when he died','110','100','90','120',2
+ 691,'Who was the King of judea at the time of Jesus'' birth','Herod','Eliud','Dan','Ahab',2
+ 692,'What seed did Manna look like','Coriander','Mustard','grape','Corn',2
+ 693,'Which disciple brought the boy with five loaves and two fishes to Jesus','Andrew','Philip','Thomas','John',2
+ 694,'According to james, what should we do when we "fall into temptation','Count it all joy','Pray against it','Accept it',' Face it with the help of Christ',2
+ 695,'Whose "days are like grass," according to the Psalmist','man','woman','horse','Tax collector',2
+ 696,'Which animal is associated with the first four of the seven seals','Horse','Donkey','Snake','Elephant',2
+ 697,'Which kind of bird did Jesus say were "sold two for a farthing"','Sparrows','Pigeons','Dove','parrot',2
+ 698,'Who was the father of Abraham','Terah','Lamech','Noah','Zillah',2
+ 699,'how were the family warned that someone wanted to kill the baby Jesus','in a dream','By an angel','By a messenger','Through the star',2
+ 700,'How did the sailors discover Jonah was responsible for the storm','Cast lots','By a spy','Fortune teller','Caught him telling another person',2   
+ 701,'What did the chief priest and Pharisees give Judas to enable him to help arrest Jesus','A band of men and officers',' Group of soldiers','Slaves','Lawyers',2
+ 702,'How old was Josiah when he became king of Judah','8','7','6','9',2
+ 703,'What was name of Abigail''s first husband','Nabal','Azor','Achim','Matthan',2
+ 704,'Why did Jephthah flee to the land of Tob','He was illegitimate','He was an hated figure among is kindred','He was loved by his father','Felt like fleeing',2
+ 705,'Where did the hypocrites "love to pray"','Synagogues and street corner','In their house','in secret','in the halls',2
+ 706,'Who did Paul heal at Lystra','A lame man','A blind man','A dumb man','A leprous man',2
+ 707,'Which animal did the ten spies liken themselves to, when compared to the people of the land of Canaan','Grasshoppers','Locusts','Weevles','pigs',2 708,'After Pilate found no guilt in Christ, for what reason did the Jews say that Jesus should die','For claiming to be son of God','For claiming to be king of Jews','For claiming to be king of Hebrew','For claiming to be Gods'' son',2
+ 709,'in a parable told by Jesus, two men went up to the temple to pray, a Pharisee and who else','Tax collector','Carpenter','Lawyer','Judge',2        
+ 710,'Who were the first two disciples to be called','Simon(Peter) and Andrew','James and John','Thomas and Solomon','Philip and Thomas',2
+ 711,'Do not Judge so that you will not be judge is in which part of the bible','matthew','Mark ','Luke','John',2
+ 712,'On which day of the creation did God create trees and plants','Third','Fourth','Second','Fifth',2
+ 713,'On which island did Paul preach on his first missionary journey','Cyprus','Syria','Rome','Israel',2
+ 714,'Why did the Pharisees deride Jesus when he said "you cannot serve Gos and mammon"','They were Covetous','They were thieves','They deceive people','They loved material things',2
+ 715,'What was Samson''s offer of reward if the Philistines could solve his riddle','Clothing','money','Wife','Position',2
+ 716,'How many of Nineveh''s inhabitants could not "discern their left hand from their right hand"','120,000','100.000','90,000','150,000',2
+ 717,'What  did the mighty angel throw into the sea that represented the throwing down of Babylon','A stone','A seal','A scroll','A seal and A scroll',2 718,'God calls us to a life of holiness, but according to thessalonians what are we told we are doing if we ignore this advice','Despising God','Deceiving God','Love money','Be evil',2
+ 719,'How did Paul escape from Damascus','In a basket down the city wall','At night','Very early in the morning','Through the gate officers',2
+ 720,'According to the book of proverbs, what is "bound in the heart of a child"','Foolishness','Wisdom','Knowledge','Disobedience',2
+ 721,'Which men murdered the Levite''s concubine','The men of Gibeah','The men of Gaza','The men of Gibratha','The men of Philistine',2
+ 722,'What happened when the third vial of wrath was poured on the earth','rivers and fountains became blood','the earth was totally flooded','The earth was completely burnt','All animals were killed',2
+ 723,'On what type of stone were the twelve children of Israel to have their names engraved, as part of the High Priest''s garments','An onyx','On carynx','On farynx','On a tablet like stone',2
+ 724,'What sin did Achan commit','Theft','Adultery','Stealing','Killing',2
+ 725,'Who was the father of Saul','Kish','Jesse','Acabud','Samuel',2
+ 726,'What four beasts did Daniel see in a vision','Lion, Bear, Leopard & Terrible beast','Lion,Tiger, Leopard, Cheetah','Lion,Snake,Tiger and Terrible beast','Lion, Snake, Cheetah and Terrible beast',2
+ 727,'Wisdom is "more precious" than which gems','Rubies','Diamond','Gold','Silver',2
+ 728,'What did the Israelites borrow from their Egyptian neighbours','Jewels and Clothing','Gold','Clothing','Shelter materials',2
+ 729,'Who came into Galilee preaching the Kingdom of God','Jesus','Paul','Peter','Andrew',2
+ 730,'What did God create on the fifth day','birds','man','plants','light',2
+ 731,'What Egyptian name did Pharaoh give to Joseph','Zaphnath-paaneah','Gilbratha','Zaphnath','Zeada',2
+ 732,'What did Jesus do before driving the money-changers out of the temple','Made a whip','Got angry at them','Adviced them','Punished them',2
+ 733,'What reward did Jesus say the twelve apostles would get for forsaking everything and following him','Sit on 12 thrones','Sit on 11 thrones','Be beside the lord','Be blessings to people',2
+ 734,'Who said, "Worthy is the lamb who was slain"','Thousands upon thousands of angels','The disciples','The three angels','Host of heaven',2
+ 735,'Who gave water to the camels of Abraham''s servant, in answer to his prayer','Rebekah','Leah','Rachael','Sarah',2
+ 736,'In which gospel does Jesus state that he is the "Bread of Life"','John','Mark','Thessalonians','Hebrews',2
+ 737,'How many fish were caught in the miracle of the draught of fishes','153','175','120','176',2
+ 738,'From which minor prophet is Jesus quoting when he says, "I am come to set the daughter against her mother"','Micah','Ezra','Nahum','Habakkuk',2   
+ 739,'After seeing the destruction of Jericho and Ai, the inhabitants of which city pretended to be travelers from a far off land to make a covenant of peace with the Israelites','Gibeon','Gilead','Gaza','Ginthin',2
+ 740,'In the parable of the Good Samaritan, who was the first man to pass by the wounded man','Priest','Tax collector','Good Smaritan','Thieves',2      
+ 741,'What did Paul do when he couldn''t bear to be away from the brethren at thessalonica any longer','Sent Tomothy to them','Wrote a letter to them','Sent them a gift','Visited them',2
+ 742,'What did James and John want to do to the unwelcoming Samariatan village','Call down fire from heaven','Curse them','Preach to them','Make them all sick',2
+ 743,'Jesus said not to swear by your head because you cannot do what','Make one hair black or white','Cannot create a man','Cannot make a drop of water',NULL,2
+ 744,'On the fourth day, God made the Sun, Moon and what else','Stars','Plants','Birds','Planets',2
+ 745,'In the New Jerusalem descried in Revelation, what are the twelve gates made from','Pearls','Stones','Steels','Concrete',2
+ 746,'Which Psalm is entitled "a Prayer of Moses"','Psalm 90','Psalm 66','Psalm 130','Psalm 20',2
+ 747,'On what day of creation were dry land and seas created','Third','Second ','Fourth','Fifth',2
+ 748,'How many tribes was Jeroboam promised he would rule over','10','1','12','7',2
+ 749,'Which brother did Joseph imprison while the others returned to Jacob','Simeon','Benjamin','Reuben','Dan',2
+ 750,'How many spies did Moses send out to explore the land of Canaan','12','7','6','5',2
+ 751,'Which bird does Job say is "lacking in wisdom", due to the fact she leaves','Ostrich','Pigeon','Vulture','Dove',2
+ 752,'Whose mother found him a wife from Egypt','Ishmael','Isaac','Job','Matthaius',2
+ 753,'Noah was a "preacher" of what','Rigteousness','Salvation','Joy of Christ','Love',2
+ 754,'Which of the twelve sons of Jacob had a name that means "praise"','Judah','Dan','Joseph','Simeone',2
+ 755,'What is the message of the parable that Jesus told Simon the Pharisee','he who has many debts forgiven, loves the one who forgave him more than he who has few debts forgiven','parable of the lost sheep','parable of the rich man','parable of the prodigal son',2
+ 756,'How many men and women were in the temple to watch Samson entertain them','3000','2500','5000','1000',2
+ 757,'Who escorted the slave with the letter to Philemon','Tychius','Cyrus','Titus','Silas',2
+ 758,'Who was Paul writing to when he wrote "I will receive you and will be a father unto you and ye shall be my sons and daughters, saith the lord almighty','Corinthians','Colossians','Galatians','Romans',2
+ 759,'What was the name of the servant who had his ear cut off at the arrest of Jesus','Malchus','Macus','Mattaius','Zeus',2
+ 760,'What did Samson carry to the top of the hill overlooking Hebron','City gate','Garden','Market ','Synagogue',2
+ 761,'Whose house did Paul go to in Caesarea','Philip','Peter','Thomas','Andrew',2
+ 762,'Who went to sleep during one of Paul''s sermons and fell out of the window','Eutychus','Zeus','Tasha','Cobbham',2
+ 763,'Which prophet of God told Naaman to wash in the river Jordan to cure his leprosy','Elisha','Dan','Enoch','Elijah',2
+ 764,'What occupation did Priscilla have','Tentmaker','Weaver','Painter','Farmer',2
+ 765,'One title of God is El Shadddai, which means what','Almighty God','I am that i am','Rock of Ages','Ominipotent',2
+ 766,'What is the seventh commandment','Thou shall not commit adultery','Thou shall not kill','Thou shall respect your parents','Thou shall not call the name of God in vain',2
+ 767,'How many cities of refuge were on the east side of Jordan','3','2','5','7',2
+ 768,'What was the name of Joseph''s(son of Jacob) first born state','Manasseh','Seth','Uriah','Job',2
+ 769,'According to the Bible what sort of man was Noah','Just/Godly/Blameless','Hardworking','Dedicated','Righteous',2
+ 770,'How many tribes inherited land on the east of Jordan','Two and a half','Two','Seven ','Three',2
+ 771,'What relation was Lois to Timothy','Grandmother','Mother','Aunty','Niece',2
+ 772,'In the parable of the Good Samaritan who was the second man to bypass by the robbed time','Levite','Simeonite','Danite','Benjamite',2
+ 773,'What was the name of the city where Lydia was converted','Philippi','Syria','Judea','Rome',2
+ 774,'Against which enemy did Jephthah lead Israel','ammonites','Canaanites','Philistines','Egyptians',2
+ 775,'What was the name of the prophet who prohesied that Paul would be bound at Jerusalem','Agabus','Sirthe','Sapphire','Nazareth',2
+ 776,'How did King Zimri commit suicide','Burned his house down while still inside it','Hanged himself','Poissoned himself','Stabbed himself',2
+ 777,'in the parable of the laborrers in the vineyard, how much was each person paid to work','One pence','Ten pence','Two pence ','Five pence',2       
+ 778,'Whose wife went into labor and gave birth on hearing the news that the Ark of God was captured and that her father-in-law and husband were dead','Phinehas','Ananias','Acabud','Euid',2
+ 779,'In like''s account of the Beatitudes who does Jesus say the Kingdom of God belongs to','The poor','The rich','The blind ','The dumb',2
+ 780,'For what reason did Isaac say he loved Esau',' ate of his venison','ate his porridge','ate his meat','tasted his fruit',2
+ 781,'In the ritual cleansing of a leper under the Law of Moses, which animals were to be offered on the eight day','Lambs','sheep','goat','horse',2    
+ 782,'Who should you "withdraw from", according to the epistles of Thessalonians','Idle brethren','Troublesome brethren','Gentle friends','Lying friends',2
+ 783,'Psalm 91 verses 11 and 12 are quoted in which New Testament incident','The temptation of Jesus','The crucification of Jesus','The trial Of Jesus','The betrayal of Jesus',2
+ 784,'How was the earth watered initially before rain','Mist went up from earth','Sea water went up from the earth','Snow went up from the earth','Soil water went up from the earth',2
+ 785,'What proportion of his goods did Zacchaeus give away to the poor','Half','Quarter','three-quarter','one',2
+ 786,'How old was Anna the prophetess when she saw Jesus','84','72','90','25',2
+ 787,'What did Rachel steal from her father, Laban, when she left home with her husband Jacob','Idols','Gold','Chains','Diamonds',2
+ 788,'The snail is mentioned in which Psalm','Psalm 58','Psalm 97','Psalm 34','Psalm 91',2
+ 789,'How does Psalm 96 say we should worship God','In the beauty of holiness','In the beauty of righteousness','In the beauty of Kindness','In the beauty of Love',2
+ 790,'Why should children listen to "the instruction of a father"','To gain understanding','To become leaders in the future','To become rich','To become relevant in the society',2
+ 791,'What did the disciples say to Jesus before the ascension','will you restore the kingdom of Israel','Will you punish those that killed you','Will you come back again','Where are you going to exactly',2
+ 792,'What did Jesus eat to convince the disciples that he was indeed raised from the dead','Fish and honeycom','Fish and bread','Citrus and Fish','Bread and wine',2
+ 793,'How old was Joseph when he died','110','70','80','95',2
+ 794,'Where was David born','Bethlehem','Judea','Syria','Cyprus',2
+ 795,'How were the Thessalonians told to keeep their own bodies','In santification and honor','In the might of God','In love','In kindness',2
+ 796,'How many companions did the Philistines give to Samson at the feast in Timnah','30','20','60','150',2
+ 797,'How many times did Noah send out the dove','3','5','7','9',2
+ 798,'What instruments were used to praise God when the temple foundation was rebuilt','Trumphets and Cymbals','Violin and gong','Violin and Cymbals','Violin and Trumphets',2
+ 799,'How many minor prophets are there','12','6','3','20',2
+ 800,'Honor thy father and thy mother is one of the ten commandments. which one','5th','3rd','8th','9th',2
+ 1001,'For how long was the dragon bound in the bottomless pit','1,000 years','1,500 years','500 years','2,000 years',2
+ 1002,'Complete the Beatitude: "Blessed are the pure in heart..."','For they shall see God','For they shall be blessed','For they shall be called sons of God','For they shall inherit the kingdom of God',2
+
